@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "A quiet morning",
+        "content": "Woke up early, made coffee, and just sat by the window for a while.",
+        "date": "Aug 16_08_26 - 16:59:18",
+        "tag": [
+            "quiet",
+            "tag exception test1",
+            "tag exception test2",
+            "t.e.t3"
+        ],
+        "favorite": true
+    },
+    {
+        "id": 2,
+        "title": "Late night thoughts",
+        "content": "Couldn't sleep, kept thinking about the app and what to build next.",
+        "date": "Aug 16_08_26 - 17:07:16",
+        "tag": [
+            "that night"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Somthing new,looks hard;but not!",
+        "content": "Started reading about system design today. Feels like a whole new mountain to climb, but exciting.",
+        "date": "Aug 16_08_26 - 17:09:14"
+    }
+]
